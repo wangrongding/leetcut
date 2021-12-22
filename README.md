@@ -8,9 +8,14 @@
 
 详细步骤点击[这里](./VsCode-LeetCode.md)查看
 
-每日一道算法题，从最简单的开始 ~ 持续更新中!
+## 加入我们 ~ 一起每天学习算法吧 ~
+
+<image src="https://gitee.com/wangrongding/image-house/raw/master/images/202112230014605.jpg" width="200px">
+<image src="https://gitee.com/wangrongding/image-house/raw/master/images/202112230015794.jpg" width="200px">
 
 ---
+
+每日一道算法题，从最简单的开始 ~ 持续更新中!
 
 ### 6. 2021-12-22
 
