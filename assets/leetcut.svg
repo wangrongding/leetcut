@@ -1,0 +1,13 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Icon -->
+  <g>
+    <path d="M20,50 L40,30" stroke="black" stroke-width="8" stroke-linecap="round" />
+    <path d="M20,50 L40,70" stroke="orange" stroke-width="8" stroke-linecap="round" />
+    <path d="M40,30 L60,50" stroke="orange" stroke-width="8" stroke-linecap="round" />
+    <path d="M40,70 L60,50" stroke="black" stroke-width="8" stroke-linecap="round" />
+    <path d="M40,50 H60" stroke="lightgray" stroke-width="8" stroke-linecap="round" />
+  </g>
+
+  <!-- Text "LeetCut" -->
+  <text x="80" y="65" font-family="Arial, sans-serif" font-size="50" fill="gray" letter-spacing="-2">LeetCut</text>
+</svg>

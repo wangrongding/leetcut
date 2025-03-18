@@ -1,6 +1,6 @@
-# 前端超人算法学习计划
+# LeetCut
 
-<image src="./assets/leetcode.png" width="300px">
+![](./assets/leetcut.svg)
 
 ## 说明
 
